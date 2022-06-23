@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Diagnostics;
 namespace AlerterSpace {
     class Alerter {
         static int alertFailureCount = 0;
